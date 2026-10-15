@@ -1,2 +1,2 @@
-# web-portfolio
-bootstrap web portfolio for application software
+# Web-Portfolio
+a web portfolio containing all the activities in second semester in subject AS 102
